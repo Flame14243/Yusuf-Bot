@@ -1,1 +1,0 @@
-sbbsworker: node bot.js
